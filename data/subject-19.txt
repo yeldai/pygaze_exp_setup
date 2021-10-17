@@ -1,0 +1,4 @@
+trialnr	stim,type	stim_onset	response	RT
+trialnr	stim,type	dog	2327.9756999982055	right	698.8161000190303
+trialnr	stim,type	cat	2327.9756999982055	left	1478.7863999954425
+trialnr	stim,type	gopher	2327.9756999982055	right	1996.7943000083324

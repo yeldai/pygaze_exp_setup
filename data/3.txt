@@ -1,0 +1,1 @@
+trialnr	stim,type	stim_onset	response	RT

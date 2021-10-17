@@ -1,0 +1,2 @@
+trialnr	stim,type	stim_onset	response	RT
+0	word	cat	3349.8270999989472	right	819.2567000223789
